@@ -1,0 +1,13 @@
+﻿{
+  "TransactionSettings": {
+    "Transactions": [
+      {
+        "code": 150,
+        "name": "Consultar",
+        "endpoint": "https://localhost:7098/Consultar",
+        "method": "POST",
+        "isActive": true
+      }
+    ]
+
+  }
